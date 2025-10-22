@@ -1,0 +1,7 @@
+{
+  "name": "AI Shopping List",
+  "description": "A modern, minimalist shopping list application with AI-powered suggestions and a barcode/QR code scanner to streamline your grocery shopping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
